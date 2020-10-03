@@ -1,4 +1,4 @@
-# Attendence Downloader for google meet - JIIT
+# Attendance Downloader for google meet - JIIT
 
 Download attendance as a 'txt' file.
 
@@ -10,4 +10,4 @@ Download attendance as a 'txt' file.
   - IMPORTANT - toggle developer mode to ON on the top right corner of chrome"//extensions/
   - click on "Load Unpacked" from the top left corner
   - Browse the unzipped location and add extension
-  - Done! while on google meet URL click on extension and then "download attendence" button to download as a txt file
+  - Done! while on google meet URL click on extension and then "download attendance" button to download as a txt file
